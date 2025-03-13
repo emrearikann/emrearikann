@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am continuing my education at Karabük University Computer Engineering Department. I am also continuing my work on the web security side with the SiberVatan project and Yavuzlar WEB Security and Development Team. I have a personality that likes to research and I am curious. I am developing projects as a front-end developer. In addition I am on the management team of a community interested in software and technology.
+I am a computer engineering graduate. Since the beginning of the pandemic, I have developed myself in the field of web development and web security. I have a personality that loves research and I am curious. Although I specialize in front-end, I also have enough backend and cyber security knowledge to survive. I am one of the co-founders of DNG Technology. I am also in the management team of a team dealing with cyber security and software development. 
 
 📍 Software Developer at DNG Technology<br>🔭 I’m currently working on Javascript and JS technologies.<br>👯 I’m a team player and I'm a puzzle solver.<br>🌱 I’m currently working with ReactJS.<br>⚡ All my projects are developed with love and caffeine.
 
