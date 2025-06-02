@@ -2,7 +2,7 @@
 
 I am a computer engineering graduate. Since the beginning of the pandemic, I have developed myself in the field of web development and web security. I have a personality that loves research and I am curious. Although I specialize in front-end, I also have enough backend and cyber security knowledge to survive. I am one of the co-founders of DNG Technology. I am also in the management team of a team dealing with cyber security and software development. 
 
-📍 Software Developer at DNG Technology<br>🔭 I’m currently working on Javascript and JS technologies.<br>👯 I’m a team player and I'm a puzzle solver.<br>🌱 I’m currently working with ReactJS.<br>⚡ All my projects are developed with love and caffeine.
+📍 Cyber Security Specialist at DNG Technology<br>🔭 I’m currently working on Javascript and JS technologies.<br>👯 I’m a team player and I'm a puzzle solver.<br>🌱 I’m currently working with ReactJS.<br>⚡ All my projects are developed with love and caffeine.
 
 ## 🌐 Socials:
 
